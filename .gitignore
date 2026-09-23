@@ -16,3 +16,9 @@ Content/Tarinoi/
 
 # Packaging output: file-open orders, version counters, generated platform templates.
 Build/
+
+# Visual Studio (generated on Windows)
+.vs/
+.vsconfig
+*.sln
+*.slnx
