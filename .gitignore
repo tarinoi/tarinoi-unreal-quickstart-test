@@ -13,3 +13,6 @@ Config/DefaultTarinoi.ini
 Source/TarinoiQuickstart/Tarinoi/
 # The exported content snapshot.
 Content/Tarinoi/
+
+# Packaging output: file-open orders, version counters, generated platform templates.
+Build/
