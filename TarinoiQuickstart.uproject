@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "",
+	"Description": "Tarinoi quickstart: pick an entry point and play authored dialogue.",
+	"Modules": [
+		{
+			"Name": "TarinoiQuickstart",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Tarinoi",
+			"Enabled": true
+		}
+	],
+	"AdditionalPluginDirectories": [
+		"../tarinoi-unreal-plugin"
+	]
+}
