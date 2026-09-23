@@ -6,3 +6,10 @@ Saved/
 .idea/
 .vscode/
 *.xcworkspace
+
+# Points at a specific Tarinoi project; each developer sets their own.
+Config/DefaultTarinoi.ini
+# Generated from that project's content, and the core functions scaffold written from it.
+Source/TarinoiQuickstart/Tarinoi/
+# The exported content snapshot.
+Content/Tarinoi/
