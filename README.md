@@ -9,8 +9,8 @@ already have, install the plugin directly and follow the
 
 Requires **Unreal Engine 5.8** and a C++ toolchain (Xcode on macOS, Visual Studio on Windows).
 
-> **Status: early development.** The plugin is still being built out and there is no tagged
-> release yet.
+> **Status: early development.** Version 0.2.0, matching the plugin. The API is not yet stable
+> and will change before 1.0.
 
 ## Running it
 
@@ -22,6 +22,7 @@ Requires **Unreal Engine 5.8** and a C++ toolchain (Xcode on macOS, Visual Studi
    ```
 
    The project finds it there (`AdditionalPluginDirectories` in `TarinoiQuickstart.uproject`).
+   Check out the same tag in both, e.g. `v0.2.0`.
    Or clone the plugin into this project's `Plugins/` folder instead, and delete that line.
 2. Open `TarinoiQuickstart.uproject` and let it build.
 3. **Edit > Project Settings > Plugins > Tarinoi**: paste your project's documents endpoint into
